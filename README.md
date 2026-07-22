@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/atharv1204pal/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
