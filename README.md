@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/atharv1204pal/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/atharv1204pal/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atharv1204pal/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharv1204pal/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
