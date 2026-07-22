@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharv1204pal/Leetcode/tree/master/0001-two-sum) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/atharv1204pal/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
