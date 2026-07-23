@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/atharv1204pal/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
+| [0330-patching-array](https://github.com/atharv1204pal/Leetcode/tree/master/0330-patching-array) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atharv1204pal/Leetcode/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/atharv1204pal/Leetcode/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
