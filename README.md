@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/atharv1204pal/Leetcode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2248-intersection-of-multiple-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atharv1204pal/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -87,8 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atharv1204pal/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/atharv1204pal/Leetcode/tree/master/0330-patching-array) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
