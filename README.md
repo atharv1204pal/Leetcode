@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atharv1204pal/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atharv1204pal/Leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
