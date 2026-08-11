@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/atharv1204pal/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/atharv1204pal/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/atharv1204pal/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/atharv1204pal/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
