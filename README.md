@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/atharv1204pal/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/atharv1204pal/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/atharv1204pal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/atharv1204pal/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/atharv1204pal/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharv1204pal/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharv1204pal/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/atharv1204pal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/atharv1204pal/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/atharv1204pal/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atharv1204pal/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/atharv1204pal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/atharv1204pal/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/atharv1204pal/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
