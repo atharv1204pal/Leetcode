@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
         int n = nums.length;
