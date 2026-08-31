@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/atharv1204pal/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/atharv1204pal/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/atharv1204pal/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/atharv1204pal/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atharv1204pal/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/atharv1204pal/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/atharv1204pal/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/atharv1204pal/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/atharv1204pal/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/atharv1204pal/Leetcode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/atharv1204pal/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/atharv1204pal/Leetcode/tree/master/0085-maximal-rectangle) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/atharv1204pal/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
