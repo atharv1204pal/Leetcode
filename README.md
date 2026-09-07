@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/atharv1204pal/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atharv1204pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/atharv1204pal/Leetcode/tree/master/0242-valid-anagram) |
+| [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/atharv1204pal/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/atharv1204pal/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/atharv1204pal/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0435-non-overlapping-intervals](https://github.com/atharv1204pal/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
 | ------- |
