@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/atharv1204pal/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharv1204pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharv1204pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/atharv1204pal/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/atharv1204pal/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/atharv1204pal/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/atharv1204pal/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0435-non-overlapping-intervals](https://github.com/atharv1204pal/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
 |  |
 | ------- |
