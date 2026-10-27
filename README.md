@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/atharv1204pal/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Recursion
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/atharv1204pal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/atharv1204pal/Leetcode/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharv1204pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 <!---LeetCode Topics End-->
