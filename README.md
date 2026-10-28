@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atharv1204pal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atharv1204pal/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Two Pointers
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atharv1204pal/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atharv1204pal/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/atharv1204pal/Leetcode/tree/master/0029-divide-two-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharv1204pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atharv1204pal/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/atharv1204pal/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/atharv1204pal/Leetcode/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharv1204pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/atharv1204pal/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/atharv1204pal/Leetcode/tree/master/3988-create-grid-with-exactly-k-paths-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
