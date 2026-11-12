@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/atharv1204pal/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/atharv1204pal/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharv1204pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharv1204pal/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharv1204pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atharv1204pal/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
