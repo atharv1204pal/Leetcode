@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/atharv1204pal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/atharv1204pal/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/atharv1204pal/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atharv1204pal/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharv1204pal/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/atharv1204pal/Leetcode/tree/master/0200-number-of-islands) |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/atharv1204pal/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharv1204pal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharv1204pal/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/atharv1204pal/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -370,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharv1204pal/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/atharv1204pal/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
