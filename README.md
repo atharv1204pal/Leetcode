@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/atharv1204pal/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/atharv1204pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/atharv1204pal/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atharv1204pal/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atharv1204pal/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/atharv1204pal/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atharv1204pal/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/atharv1204pal/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atharv1204pal/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/atharv1204pal/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/atharv1204pal/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/atharv1204pal/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atharv1204pal/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/atharv1204pal/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharv1204pal/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/atharv1204pal/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/atharv1204pal/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
