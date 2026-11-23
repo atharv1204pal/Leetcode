@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atharv1204pal/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/atharv1204pal/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1352-product-of-the-last-k-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharv1204pal/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/atharv1204pal/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/atharv1204pal/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/atharv1204pal/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/atharv1204pal/Leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharv1204pal/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharv1204pal/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/atharv1204pal/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharv1204pal/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/atharv1204pal/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
@@ -379,8 +382,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/atharv1204pal/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/atharv1204pal/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
